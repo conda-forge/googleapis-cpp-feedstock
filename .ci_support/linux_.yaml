@@ -13,7 +13,7 @@ cxx_compiler_version:
 docker_image:
 - condaforge/linux-anvil-comp7
 grpc_cpp:
-- '1.27'
+- 1.28.0
 libprotobuf:
 - '3.11'
 pin_run_as_build:
