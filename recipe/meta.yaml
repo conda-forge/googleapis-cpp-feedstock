@@ -1,5 +1,5 @@
 {% set name = "googleapis-cpp" %}
-{% set version = "0.9.0" %}
+{% set version = "0.10.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/googleapis/cpp-cmakefiles/archive/v{{ version }}.tar.gz
-  sha256: bf46077535e96cfbcd214d91fb24b3e5bcce1cf86b63f102a710dd7677fad008
+  sha256: 43d5d187722f23e84a320529c04070285f4905b2011396451e61720bd35d047e
 
 build:
-  number: 1
+  number: 0
   skip: true  # [win]
   run_exports:
     - {{ pin_subpackage("googleapis-cpp", max_pin="x.x") }}
