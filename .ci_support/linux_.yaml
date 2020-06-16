@@ -15,4 +15,4 @@ docker_image:
 grpc_cpp:
 - '1.29'
 libprotobuf:
-- '3.11'
+- '3.12'
