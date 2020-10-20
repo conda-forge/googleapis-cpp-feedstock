@@ -13,10 +13,13 @@ cxx_compiler:
 cxx_compiler_version:
 - '10'
 grpc_cpp:
-- '1.32'
+- '1.33'
 libprotobuf:
 - '3.13'
 macos_machine:
 - x86_64-apple-darwin13.4.0
 target_platform:
 - osx-64
+zip_keys:
+- - c_compiler_version
+  - cxx_compiler_version
