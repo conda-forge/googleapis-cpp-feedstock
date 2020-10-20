@@ -5,11 +5,9 @@ Home: https://github.com/googleapis/cpp-cmakefiles
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/googleapis-cpp-feedstock/blob/master/LICENSE.txt)
 
 Summary: Create C++ libraries from the googleapis protos.
-
-
 
 Current build status
 ====================
