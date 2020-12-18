@@ -141,3 +141,4 @@ Feedstock Maintainers
 =====================
 
 * [@xhochy](https://github.com/xhochy/)
+
