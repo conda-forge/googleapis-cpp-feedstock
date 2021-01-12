@@ -7,7 +7,7 @@ pushd build_cmake
 
 export OPENSSL_ROOT_DIR=$PREFIX
 
-cmake -GNinja \
+cmake ${CMAKE_ARGS} -GNinja \
     -DBUILD_TESTING=OFF \
     -DBUILD_SHARED_LIBS=ON \
     -DCMAKE_BUILD_TYPE=release \
