@@ -3,5 +3,5 @@ __migrator:
   kind: version
   migration_number: 1
 grpc_cpp:
-- '1.39'
-migrator_ts: 1626936388.1171865
+- '1.40'
+migrator_ts: 1631027694.11367
