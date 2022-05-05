@@ -10,7 +10,7 @@ source:
   sha256: 43d5d187722f23e84a320529c04070285f4905b2011396451e61720bd35d047e
 
 build:
-  number: 23
+  number: 24
   skip: true  # [win]
   run_exports:
     - {{ pin_subpackage("googleapis-cpp", max_pin="x.x") }}
