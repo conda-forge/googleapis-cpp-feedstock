@@ -27,24 +27,45 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64</td>
+              <td>linux_64_grpc_cpp1.46</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=linux&configuration=linux_64_grpc_cpp1.46" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64</td>
+              <td>linux_64_grpc_cpp1.47</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=linux&configuration=linux_64_grpc_cpp1.47" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64</td>
+              <td>osx_64_grpc_cpp1.46</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_64_grpc_cpp1.46" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_grpc_cpp1.47</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_64_grpc_cpp1.47" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_grpc_cpp1.46</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_grpc_cpp1.46" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_grpc_cpp1.47</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9356&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/googleapis-cpp-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_grpc_cpp1.47" alt="variant">
                 </a>
               </td>
             </tr>
