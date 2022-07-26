@@ -11,14 +11,14 @@ jobs:
       osx_64_grpc_cpp1.46:
         CONFIG: osx_64_grpc_cpp1.46
         UPLOAD_PACKAGES: 'True'
-      osx_64_grpc_cpp1.47:
-        CONFIG: osx_64_grpc_cpp1.47
+      osx_64_grpc_cpp1.48:
+        CONFIG: osx_64_grpc_cpp1.48
         UPLOAD_PACKAGES: 'True'
       osx_arm64_grpc_cpp1.46:
         CONFIG: osx_arm64_grpc_cpp1.46
         UPLOAD_PACKAGES: 'True'
-      osx_arm64_grpc_cpp1.47:
-        CONFIG: osx_arm64_grpc_cpp1.47
+      osx_arm64_grpc_cpp1.48:
+        CONFIG: osx_arm64_grpc_cpp1.48
         UPLOAD_PACKAGES: 'True'
   timeoutInMinutes: 360
 
