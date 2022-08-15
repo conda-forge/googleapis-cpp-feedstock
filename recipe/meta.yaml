@@ -27,7 +27,6 @@ requirements:
     - c-ares
     - grpc-cpp
     - libprotobuf
-    - zlib
 
 test:
   commands:
