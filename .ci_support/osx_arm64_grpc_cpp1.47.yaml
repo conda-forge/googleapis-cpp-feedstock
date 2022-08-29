@@ -1,9 +1,11 @@
 MACOSX_DEPLOYMENT_TARGET:
 - '11.0'
+c_ares:
+- '1'
 c_compiler:
 - clang
 c_compiler_version:
-- '13'
+- '14'
 channel_sources:
 - conda-forge
 channel_targets:
@@ -11,7 +13,7 @@ channel_targets:
 cxx_compiler:
 - clangxx
 cxx_compiler_version:
-- '13'
+- '14'
 grpc_cpp:
 - '1.47'
 libprotobuf:
